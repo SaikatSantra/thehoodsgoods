@@ -2786,7 +2786,7 @@
           "header_bottom_link_color": "#232323",
           "header_bottom_icon_color": "#323232",
           "position_header_text": "right",
-          "display_free_shipping": true,
+          "display_free_shipping": false,
           "free_shipping_text": "Available 24\/7 at",
           "free_shipping_color": "#d64123",
           "display_gift_cards": false,
