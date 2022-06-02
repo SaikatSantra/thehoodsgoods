@@ -1846,7 +1846,7 @@
           "title_style": "style_1",
           "view_all": "",
           "link_view_all": "",
-          "product_list_collection": "new-in",
+          "product_list_collection": "frontpage",
           "product_list_limit_all": 8,
           "display_infinite_scrolling_homepage": true,
           "collection_results_per_row1": "4",
