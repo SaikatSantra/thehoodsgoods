@@ -1861,12 +1861,13 @@
           "1541389364083-0": {
             "type": "largeImg",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Banner-4.png",
               "display_parallax": false,
               "dpl_down_arrow": false,
               "height_img_parallax": "970px",
-              "content_style": "style_1",
-              "display_bg_animation": false,
-              "color_bg_animation": "#f6f6f6",
+              "content_style": "style_2",
+              "display_bg_animation": true,
+              "color_bg_animation": "#a7a7a7",
               "alignment": "right",
               "banner_heading": "Metropólis",
               "font_size_banner_heading": "40px",
@@ -2019,6 +2020,7 @@
       },
       "1541559977022": {
         "type": "home-brands",
+        "disabled": true,
         "blocks": {
           "1541560311488": {
             "type": "image",
@@ -2094,6 +2096,7 @@
       },
       "1541566560488": {
         "type": "home-instagram",
+        "disabled": true,
         "blocks": {
           "1585729380684": {
             "type": "instagram",
