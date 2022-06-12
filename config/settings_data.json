@@ -3026,7 +3026,7 @@
           "max_height_logo_mb": "100px",
           "bg_header_bottom_color": "#ffffff",
           "header_bottom_link_color": "#232323",
-          "header_bottom_icon_color": "#bb6de0",
+          "header_bottom_icon_color": "#F44336",
           "position_header_text": "right",
           "display_free_shipping": false,
           "free_shipping_text": "Available 24\/7 at",
