@@ -1842,24 +1842,6 @@
           "display_padding": true
         }
       },
-      "1541065669115": {
-        "type": "home-new-arrivals",
-        "settings": {
-          "layout": "default",
-          "new_arrivals_title": "New Arrivals",
-          "new_arrivals_des": "",
-          "title_style": "style_1",
-          "view_all": "",
-          "link_view_all": "",
-          "product_list_collection": "frontpage",
-          "product_list_limit_all": 8,
-          "display_infinite_scrolling_homepage": true,
-          "collection_results_per_row1": "4",
-          "margin_bottom_mb": 40,
-          "margin_bottom_tab": 40,
-          "margin_bottom": 50
-        }
-      },
       "1541389364083": {
         "type": "home-custom-block-baner",
         "blocks": {
@@ -1869,9 +1851,9 @@
               "image": "shopify:\/\/shop_images\/banner7-1_jpg.png",
               "display_parallax": false,
               "dpl_down_arrow": false,
-              "height_img_parallax": "970px",
+              "height_img_parallax": "770px",
               "content_style": "style_2",
-              "display_bg_animation": true,
+              "display_bg_animation": false,
               "color_bg_animation": "#a7a7a7",
               "alignment": "right",
               "banner_heading": "",
@@ -1918,56 +1900,6 @@
           "margin_bottom_mb": 25,
           "margin_bottom_tab": 25,
           "margin_bottom": 30
-        }
-      },
-      "1541402822593": {
-        "type": "home-featured-products",
-        "settings": {
-          "bg_color": "",
-          "layout_style": "layout_style_1",
-          "display_banner": false,
-          "banner_is": "left",
-          "banner_heading": "#CAMPAIGNS",
-          "font_size_banner_heading": "40px",
-          "color_banner_heading": "#ffffff",
-          "banner_sub_heading": "Spring Summer’08",
-          "font_size_banner_sub_heading": "13px",
-          "color_banner_sub_heading": "#ffffff",
-          "banner_des": "Phasellus lorem malesuada ligula pulvinar de cosmopolis",
-          "font_size_banner_des": "12px",
-          "color_banner_des": "#ffffff",
-          "banner_button": "Shop Now",
-          "link": "",
-          "banner_button_2": "Shop Now",
-          "link_2": "",
-          "bg_banner_button": "#ffffff",
-          "border_banner_button": "#ffffff",
-          "color_banner_button": "#232323",
-          "bg_color_box_style_2": "#ffffff",
-          "border_color_box_style_2": "#bcbcbc",
-          "featured_products_title": "Trending Now",
-          "color_text_title": "",
-          "font_size_title": "",
-          "font_size_title_mb": "",
-          "text_alignment": "left",
-          "featured_products_des": "",
-          "featured_products_text_link": "",
-          "featured_products_link": "",
-          "color_text_link": "#ba7a2d",
-          "title_style": "style_1",
-          "show_slider_featured_collection": "frontpage",
-          "slider_featured_limit_all": 10,
-          "collection_results_per_row1": "4",
-          "featured_products_title_2": "Trending Now",
-          "featured_products_text_link_2": "",
-          "featured_products_link_2": "",
-          "show_slider_featured_collection_2": "",
-          "display_list_collection": false,
-          "text_list": "View all categories",
-          "url_list": "",
-          "margin_bottom_mb": 35,
-          "margin_bottom_tab": 40,
-          "margin_bottom": 0
         }
       },
       "1541414200176": {
@@ -2021,82 +1953,6 @@
           "spotlight_block_title": "#Featured On Ella",
           "spotlight_block_des": "",
           "title_style": "style_1"
-        }
-      },
-      "1541559977022": {
-        "type": "home-brands",
-        "disabled": true,
-        "blocks": {
-          "1541560311488": {
-            "type": "image",
-            "settings": {
-              "title": "Loremous",
-              "link": ""
-            }
-          },
-          "1541560317185": {
-            "type": "image",
-            "settings": {
-              "title": "Isablella",
-              "link": ""
-            }
-          },
-          "1541560319232": {
-            "type": "image",
-            "settings": {
-              "title": "Loremous",
-              "link": ""
-            }
-          },
-          "1541560320472": {
-            "type": "image",
-            "settings": {
-              "title": "FERMENDS",
-              "link": ""
-            }
-          },
-          "1541560321823": {
-            "type": "image",
-            "settings": {
-              "title": "CONSEQAUR",
-              "link": ""
-            }
-          },
-          "1541560836473": {
-            "type": "image",
-            "settings": {
-              "title": "Loremous",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1541560311488",
-          "1541560317185",
-          "1541560319232",
-          "1541560320472",
-          "1541560321823",
-          "1541560836473"
-        ],
-        "settings": {
-          "layout": "default",
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0,
-          "display_brand_border": true,
-          "display_bg_banner": false,
-          "bg_color_banner": "#f5f5f5",
-          "brand_title": "",
-          "color_title": "#232323",
-          "fontsize_title": "",
-          "fontsize_title_mb": "",
-          "font_weight_title": "700",
-          "text_transform_title": "capitalize",
-          "brand_des": "",
-          "brands_view_all": "",
-          "brands_view_all_link": "",
-          "title_style": "style_1",
-          "brand_rows": "5"
         }
       },
       "footer-4": {
@@ -2940,6 +2796,24 @@
           "bg_color_arrow": "#8c8c8c",
           "color_arrow": "#ffffff"
         }
+      },
+      "1541065669115": {
+        "type": "home-new-arrivals",
+        "settings": {
+          "layout": "default",
+          "new_arrivals_title": "New Arrivals",
+          "new_arrivals_des": "",
+          "title_style": "style_1",
+          "view_all": "",
+          "link_view_all": "",
+          "product_list_collection": "snacks",
+          "product_list_limit_all": 8,
+          "display_infinite_scrolling_homepage": true,
+          "collection_results_per_row1": "4",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 50
+        }
       }
     },
     "content_for_index": [
@@ -2947,9 +2821,7 @@
       "1540984915288",
       "1541065669115",
       "1541389364083",
-      "1541402822593",
-      "1541414200176",
-      "1541559977022"
+      "1541414200176"
     ]
   },
   "presets": {
