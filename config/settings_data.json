@@ -1713,45 +1713,45 @@
               "font_size_heading_mb": "24px",
               "color_heading": "#232323",
               "color_heading_style_4": "#10ffda",
-              "color_heading_mb": "#fff",
+              "color_heading_mb": "#ffffff",
               "sub_heading": "",
               "font_size_sub_heading": "30px",
               "font_size_sub_heading_mb": "18px",
-              "color_sub_heading": "#fff",
-              "color_sub_heading_mb": "#fff",
+              "color_sub_heading": "#ffffff",
+              "color_sub_heading_mb": "#ffffff",
               "slide-des": "",
               "font_size_des": "12px",
               "font_size_des_mb": "12px",
               "color_des": "#232323",
-              "color_des_mb": "#fff",
+              "color_des_mb": "#ffffff",
               "button_slide": "",
               "link": "",
               "button_slide_2": "",
               "link_2": "",
               "bg_button": "#232323",
               "border_button": "#232323",
-              "color_button": "#fff",
+              "color_button": "#ffffff",
               "bg_button_mb": "#232323",
               "border_button_mb": "#232323",
-              "color_button_mb": "#fff",
+              "color_button_mb": "#ffffff",
               "lb_product_1": "",
               "top_position_1": "10",
               "left_position_1": "10",
-              "dots_color_1": "#fff",
+              "dots_color_1": "#ffffff",
               "dots_bg_color_1": "#323232",
-              "dots_shadow_color_1": "#fff",
+              "dots_shadow_color_1": "#ffffff",
               "lb_product_2": "",
               "top_position_2": "10",
               "left_position_2": "10",
-              "dots_color_2": "#fff",
+              "dots_color_2": "#ffffff",
               "dots_bg_color_2": "#323232",
-              "dots_shadow_color_2": "#fff",
+              "dots_shadow_color_2": "#ffffff",
               "lb_product_3": "",
               "top_position_3": "10",
               "left_position_3": "10",
-              "dots_color_3": "#fff",
+              "dots_color_3": "#ffffff",
               "dots_bg_color_3": "#323232",
-              "dots_shadow_color_3": "#fff"
+              "dots_shadow_color_3": "#ffffff"
             }
           }
         },
@@ -2814,6 +2814,56 @@
           "margin_bottom_tab": 40,
           "margin_bottom": 50
         }
+      },
+      "165554107707562235": {
+        "type": "home-list-collections",
+        "blocks": {
+          "8d773314-9020-4a59-a035-8583e934c934": {
+            "type": "collection",
+            "settings": {
+              "collection": "snacks",
+              "color": "#bb6de0",
+              "bg_button": "#fff",
+              "border_button": "#bb6de0",
+              "color_button": "#bb6de0"
+            }
+          },
+          "b64d272e-4243-4e6d-9e81-d1dc45e19d1c": {
+            "type": "collection",
+            "settings": {
+              "collection": "cookies",
+              "color": "#bb6de0",
+              "bg_button": "#fff",
+              "border_button": "#bb6de0",
+              "color_button": "#bb6de0"
+            }
+          },
+          "88d9f3ef-ec8c-4d15-ba54-0ceddfa03631": {
+            "type": "collection",
+            "settings": {
+              "collection": "candy",
+              "color": "#bb6de0",
+              "bg_button": "#fff",
+              "border_button": "#bb6de0",
+              "color_button": "#bb6de0"
+            }
+          }
+        },
+        "block_order": [
+          "8d773314-9020-4a59-a035-8583e934c934",
+          "b64d272e-4243-4e6d-9e81-d1dc45e19d1c",
+          "88d9f3ef-ec8c-4d15-ba54-0ceddfa03631"
+        ],
+        "settings": {
+          "list_collection_title_size": "20",
+          "display_padding": true,
+          "display_absolute": false,
+          "position_absolute": "5.3%",
+          "block_des": "",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0
+        }
       }
     },
     "content_for_index": [
@@ -2821,7 +2871,8 @@
       "1540984915288",
       "1541065669115",
       "1541389364083",
-      "1541414200176"
+      "1541414200176",
+      "165554107707562235"
     ]
   },
   "presets": {
