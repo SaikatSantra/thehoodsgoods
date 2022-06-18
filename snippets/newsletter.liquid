@@ -1,4 +1,9 @@
 {% if settings.display_popup_newsletter %}
+<style>
+.column-left.full-width-news {
+    width: 100%!important;
+}
+</style>
 {% if settings.display_newsletter_toolbar and settings.text_toolbar != blank %}
 <div class="newsletter-toolbar{% if settings.position_toolbar == 'right' %} align-right{% endif %}" data-toolbar-newsletter>
     <div class="toolbar--social">
