@@ -21,8 +21,8 @@
             </a>
             
             <div class="halo-modal-body">
-                <div class="column-left">
-                    {%- assign img_url = settings.newsletter | img_url: '360x360' -%}
+                <div class="column-left {% if settings.popup_newsletter_title == blank and settings.popup_newsletter_des == blank %}full-width-news{% endif %}">
+                    {%- assign img_url = settings.newsletter | img_url: 'original' -%}
                     
                     {% if settings.newsletter != blank %}
                     <img data-srcset="{{ img_url }}" class="lazyload" data-sizes="auto">
@@ -33,6 +33,7 @@
                     {% endif %}
                 </div>
                 
+               {% if settings.popup_newsletter_title != blank and settings.popup_newsletter_des != blank %}
                 <div class="column-right">
                     {% if settings.popup_newsletter_title != blank %}
                     <h2 class="title">
@@ -67,6 +68,7 @@
                     </label>
                     {% endif %}
                 </div>
+              {% endif %}
             </div>
         </div>
     </div>
