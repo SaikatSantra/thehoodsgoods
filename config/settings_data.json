@@ -53,6 +53,7 @@
     "size_chart": "none",
     "custom_size_chart": "shopify:\/\/shop_images\/size-chart-compressor.jpg",
     "img_trust": "shopify:\/\/shop_images\/trust_800x-compressor.png",
+    "style_quickview_grid_4": "style_2",
     "enable_wishlist": true,
     "display_sticky": true,
     "display_sticky_mb": true,
