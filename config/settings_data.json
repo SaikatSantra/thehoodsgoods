@@ -1085,23 +1085,23 @@
         ],
         "settings": {
           "bg_footer_img": "none",
-          "bg_footer_color": "#232323",
+          "bg_footer_color": "#bb6de0",
           "bg_footer_position_x": "left",
           "bg_footer_position_y": "top",
           "bg_footer_repeat": "repeat",
           "bg_footer_attachment": "scroll",
           "footer_title_color": "#ffffff",
-          "footer_link_color": "#969696",
+          "footer_link_color": "#ffffff",
           "footer_link_hover_color": "#ffffff",
-          "bg_footer_line_color": "#3b3b3b",
+          "bg_footer_line_color": "#ffffff",
           "footer_newsletter_enable": true,
           "footer_newsletter_title": "Sign up for our Newsletter",
           "footer_newsletter_des": "",
           "bg_newsletter_color": "rgba(0,0,0,0)",
-          "newsletter_color": "#717171",
-          "newsletter_border_color": "#3b3b3b",
-          "bg_newsletter_button_color": "#3b3b3b",
-          "newsletter_button_color": "#ffffff",
+          "newsletter_color": "#ffffff",
+          "newsletter_border_color": "#ffffff",
+          "bg_newsletter_button_color": "#ffffff",
+          "newsletter_button_color": "#bb6de0",
           "footer_social_enable": true,
           "footer_social_title": "Stay Connected",
           "fb_like_code_text": "<span>LIKE US <i>on <\/i> FACEBOOK<\/span>",
@@ -1556,8 +1556,8 @@
           "1548643747526"
         ],
         "settings": {
-          "display_someone-purchased": true,
-          "display_someone-purchased_mb": true,
+          "display_someone-purchased": false,
+          "display_someone-purchased_mb": false,
           "show_someone-purchased": "right",
           "someone_speed": "7000",
           "text": "Someone recently bought a",
@@ -2095,123 +2095,6 @@
           "brands_view_all_link": "",
           "title_style": "style_1",
           "brand_rows": "5"
-        }
-      },
-      "1541566560488": {
-        "type": "home-instagram",
-        "disabled": true,
-        "blocks": {
-          "1585729380684": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729405746": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729414607": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729422220": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729429667": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729437058": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729446521": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729453785": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729461676": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          },
-          "1585729471504": {
-            "type": "instagram",
-            "settings": {
-              "enable": true,
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "1585729380684",
-          "1585729405746",
-          "1585729414607",
-          "1585729422220",
-          "1585729429667",
-          "1585729437058",
-          "1585729446521",
-          "1585729453785",
-          "1585729461676",
-          "1585729471504"
-        ],
-        "settings": {
-          "show_instagram": true,
-          "layout": "default",
-          "display_border_top": false,
-          "instagram_bg": "#fafafa",
-          "instagram_icon_enable": true,
-          "instagram_title": "#Ella On Instagram",
-          "color_title": "",
-          "font_size_title": "",
-          "font_size_title_mb": "",
-          "font_weight_title": "700",
-          "text_transform_title": "capitalize",
-          "title_style": "style_2",
-          "instagram_des": "Phasellus lorem malesuada ligula pulvinar commodo maecenas",
-          "display_instagram_button": true,
-          "instagram_button_text": "View Gallery",
-          "instagram_button_link": "",
-          "type_instagram": "default",
-          "embed_code": "",
-          "type_instagram_by_gallery": "popup_image",
-          "limit": "10",
-          "images_per_row": "5",
-          "slide_ins": "default_ins",
-          "display_arrow": true,
-          "slide_rows": "1",
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0
         }
       },
       "footer-4": {
@@ -3064,8 +2947,7 @@
       "1541389364083",
       "1541402822593",
       "1541414200176",
-      "1541559977022",
-      "1541566560488"
+      "1541559977022"
     ]
   },
   "presets": {
