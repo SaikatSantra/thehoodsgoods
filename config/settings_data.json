@@ -2849,12 +2849,12 @@
           "view_all": "",
           "link_view_all": "",
           "product_list_collection": "snacks",
-          "product_list_limit_all": 8,
-          "display_infinite_scrolling_homepage": true,
-          "collection_results_per_row1": "4",
-          "margin_bottom_mb": 40,
-          "margin_bottom_tab": 40,
-          "margin_bottom": 50
+          "product_list_limit_all": 10,
+          "display_infinite_scrolling_homepage": false,
+          "collection_results_per_row1": "5",
+          "margin_bottom_mb": 20,
+          "margin_bottom_tab": 20,
+          "margin_bottom": 30
         }
       },
       "footer-2": {
