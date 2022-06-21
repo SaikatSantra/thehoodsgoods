@@ -25,7 +25,9 @@
         {% when 2 %}
           {%- assign column_size = 'col-12 col-md-6' -%}
         {% when 3 %}
-            {%- assign column_size = 'col-12 col-md-6 col-lg-4' -%}    
+            {%- assign column_size = 'col-12 col-md-6 col-lg-4' -%} 
+      {% else %}
+        {%- assign column_size = 'col-2 col-md-3 col-lg-6' -%} 
       {% endcase %}
 
       {% if block.settings.title != blank or block.settings.des != blank or block.settings.button != blank %}
