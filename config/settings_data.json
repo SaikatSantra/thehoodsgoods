@@ -1799,20 +1799,20 @@
       "1540984915288": {
         "type": "home-sub-banner",
         "blocks": {
-          "1540984915288-0": {
+          "1540984915288-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-20_at_11.47.15_PM.jpg",
-              "title": "Editor’s Pick",
+              "image": "shopify:\/\/shop_images\/promo-banner3.jpg",
+              "title": "",
               "color_title": "#bb6de0",
               "link": ""
             }
           },
-          "1540984915288-1": {
+          "1540984915288-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-20_at_11.53.48_PM.jpg",
-              "title": "Cake",
+              "image": "shopify:\/\/shop_images\/promo-banner1.jpg",
+              "title": "",
               "color_title": "#bb6de0",
               "link": ""
             }
@@ -1820,16 +1820,16 @@
           "1540985049803": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-21_at_12.09.19_AM.jpg",
-              "title": "Accessories",
+              "image": "shopify:\/\/shop_images\/promo-banner2.jpg",
+              "title": "",
               "color_title": "#bb6de0",
               "link": ""
             }
           }
         },
         "block_order": [
-          "1540984915288-0",
           "1540984915288-1",
+          "1540984915288-0",
           "1540985049803"
         ],
         "settings": {
