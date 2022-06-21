@@ -1905,11 +1905,11 @@
       "1541414200176": {
         "type": "home-custom-block-spotlight",
         "blocks": {
-          "1541414200176-0": {
+          "1541414200176-2": {
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "title": "DRINKS",
+              "title": "SNACKS",
               "des": "",
               "button": "",
               "link": "",
@@ -1927,11 +1927,44 @@
               "color_button": ""
             }
           },
-          "1541414200176-2": {
+          "6c0320a4-8234-442a-80fa-ee7ec4d3b55d": {
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "title": "SNACKS",
+              "title": "Chocolate",
+              "des": "",
+              "button": "",
+              "link": "",
+              "color_button": ""
+            }
+          },
+          "1541414200176-0": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "DRINKS",
+              "des": "",
+              "button": "",
+              "link": "",
+              "color_button": ""
+            }
+          },
+          "95c8c44e-86b1-445a-afad-9f436165aeed": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "Cookies",
+              "des": "",
+              "button": "",
+              "link": "",
+              "color_button": ""
+            }
+          },
+          "1b1585f1-bfdb-4a7e-acf2-400df183725d": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "Chips",
               "des": "",
               "button": "",
               "link": "",
@@ -1940,9 +1973,12 @@
           }
         },
         "block_order": [
-          "1541414200176-0",
+          "1541414200176-2",
           "1541414200176-1",
-          "1541414200176-2"
+          "6c0320a4-8234-442a-80fa-ee7ec4d3b55d",
+          "1541414200176-0",
+          "95c8c44e-86b1-445a-afad-9f436165aeed",
+          "1b1585f1-bfdb-4a7e-acf2-400df183725d"
         ],
         "settings": {
           "layout": "default",
