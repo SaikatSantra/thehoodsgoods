@@ -1982,8 +1982,8 @@
           "1b1585f1-bfdb-4a7e-acf2-400df183725d"
         ],
         "settings": {
-          "layout": "default",
-          "layout_style": "layout_style_1",
+          "layout": "full",
+          "layout_style": "layout_style_2",
           "margin_bottom_mb": 25,
           "margin_bottom_tab": 35,
           "margin_bottom": 35,
