@@ -71,3 +71,6 @@
 {% if settings.layout_style == 'layout_style_surfup' %}
 	{{ 'layout_style_surfup.css' | asset_url | stylesheet_tag }}
 {% endif %}
+
+
+{{ 'custom.css' | asset_url | stylesheet_tag }}
