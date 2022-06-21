@@ -2852,9 +2852,9 @@
           "product_list_limit_all": 10,
           "display_infinite_scrolling_homepage": false,
           "collection_results_per_row1": "5",
-          "margin_bottom_mb": 20,
-          "margin_bottom_tab": 20,
-          "margin_bottom": 30
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0
         }
       },
       "footer-2": {
