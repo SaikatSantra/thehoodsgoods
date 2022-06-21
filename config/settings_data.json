@@ -3032,6 +3032,7 @@
       },
       "16558048109fe48b7c": {
         "type": "home-custom-block-spotlight",
+        "disabled": true,
         "blocks": {
           "16558048109fe48b7c-0": {
             "type": "image",
