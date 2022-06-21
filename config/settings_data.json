@@ -1909,9 +1909,9 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "title": "Lorem De Dorus",
-              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
-              "button": "Shop Now",
+              "title": "DRINKS",
+              "des": "",
+              "button": "",
               "link": "",
               "color_button": ""
             }
@@ -1920,9 +1920,9 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "title": "Milancelos Lanos",
-              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
-              "button": "Shop Now",
+              "title": "CANDIES",
+              "des": "",
+              "button": "",
               "link": "",
               "color_button": ""
             }
@@ -1931,9 +1931,9 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "title": "Como A Milano",
-              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
-              "button": "Shop Now",
+              "title": "SNACKS",
+              "des": "",
+              "button": "",
               "link": "",
               "color_button": ""
             }
@@ -2815,56 +2815,6 @@
           "margin_bottom": 50
         }
       },
-      "165554107707562235": {
-        "type": "home-list-collections",
-        "blocks": {
-          "8d773314-9020-4a59-a035-8583e934c934": {
-            "type": "collection",
-            "settings": {
-              "collection": "snacks",
-              "color": "#bb6de0",
-              "bg_button": "#ffffff",
-              "border_button": "#bb6de0",
-              "color_button": "#bb6de0"
-            }
-          },
-          "b64d272e-4243-4e6d-9e81-d1dc45e19d1c": {
-            "type": "collection",
-            "settings": {
-              "collection": "cookies",
-              "color": "#bb6de0",
-              "bg_button": "#ffffff",
-              "border_button": "#bb6de0",
-              "color_button": "#bb6de0"
-            }
-          },
-          "88d9f3ef-ec8c-4d15-ba54-0ceddfa03631": {
-            "type": "collection",
-            "settings": {
-              "collection": "candy",
-              "color": "#bb6de0",
-              "bg_button": "#ffffff",
-              "border_button": "#bb6de0",
-              "color_button": "#bb6de0"
-            }
-          }
-        },
-        "block_order": [
-          "8d773314-9020-4a59-a035-8583e934c934",
-          "b64d272e-4243-4e6d-9e81-d1dc45e19d1c",
-          "88d9f3ef-ec8c-4d15-ba54-0ceddfa03631"
-        ],
-        "settings": {
-          "list_collection_title_size": "20",
-          "display_padding": true,
-          "display_absolute": false,
-          "position_absolute": "5.3%",
-          "block_des": "",
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 0
-        }
-      },
       "footer-2": {
         "type": "footer-2",
         "settings": {
@@ -3037,15 +2987,68 @@
           "payment_display_wallet": false,
           "payment_display_western": false
         }
+      },
+      "16558048109fe48b7c": {
+        "type": "home-custom-block-spotlight",
+        "blocks": {
+          "16558048109fe48b7c-0": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "Lorem De Dorus",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": "",
+              "color_button": ""
+            }
+          },
+          "16558048109fe48b7c-1": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "Lorem De Dorus",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": "",
+              "color_button": ""
+            }
+          },
+          "16558048109fe48b7c-2": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "title": "Lorem De Dorus",
+              "des": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam. Praesent murna de tellus laoreet cosmopolis.",
+              "button": "Shop Now",
+              "link": "shopify:\/\/collections\/candy",
+              "color_button": ""
+            }
+          }
+        },
+        "block_order": [
+          "16558048109fe48b7c-0",
+          "16558048109fe48b7c-1",
+          "16558048109fe48b7c-2"
+        ],
+        "settings": {
+          "layout": "default",
+          "layout_style": "layout_style_1",
+          "margin_bottom_mb": 25,
+          "margin_bottom_tab": 35,
+          "margin_bottom": 35,
+          "spotlight_block_title": "#Featured On Ella",
+          "spotlight_block_des": "",
+          "title_style": "style_1"
+        }
       }
     },
     "content_for_index": [
       "1540952363851",
       "1540984915288",
+      "1541414200176",
       "1541065669115",
       "1541389364083",
-      "1541414200176",
-      "165554107707562235"
+      "16558048109fe48b7c"
     ]
   },
   "presets": {
