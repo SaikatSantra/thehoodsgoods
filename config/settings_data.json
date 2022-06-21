@@ -1065,6 +1065,13 @@
               "footer_linklist": "footer"
             }
           },
+          "bdeb2d14-f1df-4e51-95cf-32a7466a6731": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Shop",
+              "footer_linklist": "main-menu"
+            }
+          },
           "1541579687499": {
             "type": "footer_link",
             "settings": {
@@ -1075,6 +1082,7 @@
         },
         "block_order": [
           "1541579674639",
+          "bdeb2d14-f1df-4e51-95cf-32a7466a6731",
           "1541579687499"
         ],
         "settings": {
