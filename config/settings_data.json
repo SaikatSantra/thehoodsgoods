@@ -1909,6 +1909,7 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
+              "image": "shopify:\/\/shop_images\/1.png",
               "title": "SNACKS",
               "des": "",
               "button": "",
