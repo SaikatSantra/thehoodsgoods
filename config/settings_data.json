@@ -1897,9 +1897,9 @@
           "widget_des": "",
           "title_style": "style_1",
           "img_align": "center",
-          "margin_bottom_mb": 0,
-          "margin_bottom_tab": 0,
-          "margin_bottom": 30
+          "margin_bottom_mb": 30,
+          "margin_bottom_tab": 30,
+          "margin_bottom": 50
         }
       },
       "1541414200176": {
@@ -1909,7 +1909,7 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/1.png",
+              "image": "shopify:\/\/shop_images\/popin_cookin_tomashii_donuts.png",
               "title": "SNACKS",
               "des": "",
               "button": "",
@@ -3088,9 +3088,9 @@
     "content_for_index": [
       "1540952363851",
       "1540984915288",
-      "1541414200176",
       "1541065669115",
       "1541389364083",
+      "1541414200176",
       "16558048109fe48b7c"
     ]
   },
