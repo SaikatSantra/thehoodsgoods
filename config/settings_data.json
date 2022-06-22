@@ -1909,11 +1909,11 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/Candy.png",
+              "image": "shopify:\/\/shop_images\/Snacks_946082da-4e36-4fcf-977d-ef5533a0bbb7.png",
               "title": "SNACKS",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/snacks",
               "color_button": ""
             }
           },
@@ -1921,11 +1921,11 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/1.png",
+              "image": "shopify:\/\/shop_images\/Snacks.png",
               "title": "CANDIES",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/candy",
               "color_button": ""
             }
           },
