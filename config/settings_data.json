@@ -1933,20 +1933,8 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/1.png",
+              "image": "shopify:\/\/shop_images\/Choco.png",
               "title": "Chocolate",
-              "des": "",
-              "button": "",
-              "link": "",
-              "color_button": ""
-            }
-          },
-          "1541414200176-0": {
-            "type": "image",
-            "settings": {
-              "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/1.png",
-              "title": "DRINKS",
               "des": "",
               "button": "",
               "link": "",
@@ -1957,7 +1945,7 @@
             "type": "image",
             "settings": {
               "bg_color_column": "",
-              "image": "shopify:\/\/shop_images\/1.png",
+              "image": "shopify:\/\/shop_images\/cookies.png",
               "title": "Cookies",
               "des": "",
               "button": "",
@@ -1976,15 +1964,27 @@
               "link": "",
               "color_button": ""
             }
+          },
+          "1541414200176-0": {
+            "type": "image",
+            "settings": {
+              "bg_color_column": "",
+              "image": "shopify:\/\/shop_images\/1.png",
+              "title": "DRINKS",
+              "des": "",
+              "button": "",
+              "link": "",
+              "color_button": ""
+            }
           }
         },
         "block_order": [
           "1541414200176-2",
           "1541414200176-1",
           "6c0320a4-8234-442a-80fa-ee7ec4d3b55d",
-          "1541414200176-0",
           "95c8c44e-86b1-445a-afad-9f436165aeed",
-          "1b1585f1-bfdb-4a7e-acf2-400df183725d"
+          "1b1585f1-bfdb-4a7e-acf2-400df183725d",
+          "1541414200176-0"
         ],
         "settings": {
           "layout": "full",
