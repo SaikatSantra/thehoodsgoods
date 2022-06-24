@@ -1701,7 +1701,7 @@
             "type": "image",
             "settings": {
               "dpl_slide_img": true,
-              "image_slide": "shopify:\/\/shop_images\/banner4.jpg",
+              "image_slide": "shopify:\/\/shop_images\/3.jpg",
               "style_content": "style_1",
               "alignment": "left",
               "alignment_custom": "35%",
