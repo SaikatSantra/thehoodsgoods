@@ -1995,7 +1995,7 @@
               "title": "Chocolate",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/chocolate",
               "color_button": ""
             }
           },
@@ -2007,7 +2007,7 @@
               "title": "Cookies",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/cookies",
               "color_button": ""
             }
           },
@@ -2019,7 +2019,7 @@
               "title": "DRINKS",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/drinks",
               "color_button": ""
             }
           },
@@ -2031,7 +2031,7 @@
               "title": "Chips",
               "des": "",
               "button": "",
-              "link": "",
+              "link": "shopify:\/\/collections\/chips",
               "color_button": ""
             }
           }
