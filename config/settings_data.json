@@ -1104,7 +1104,7 @@
           "newsletter_border_color": "#ffffff",
           "bg_newsletter_button_color": "#ffffff",
           "newsletter_button_color": "#bb6de0",
-          "footer_social_enable": true,
+          "footer_social_enable": false,
           "footer_social_title": "Stay Connected",
           "fb_like_code_text": "<span style=\"display:none;\">LIKE US <i>on <\/i> FACEBOOK<\/span>",
           "fb_like_code": "",
