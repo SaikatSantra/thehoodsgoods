@@ -5,13 +5,13 @@
       "settings": {
         "display_google_map": true,
         "google_map_code": "",
-        "contact_title": "Drop Us A Line",
+        "contact_title": "Drop us a line",
         "contact_text_desc": "",
         "contact_your_name": "",
         "contact_phone_number": "",
         "contact_your_email": "",
         "display_location": true,
-        "location_code": "<h4>Store Information<\/h4>\n<p>We'd love to hear from you - please use the form to send us your message or ideas. <\/p>\n<p class=\"addr\">10221 King George Boulevard, Surrey British Columbia V3T 2W6,<br> Canada\n<\/p>\n\n<p class=\"addr\">Email: <a href=\"mailto:gurkaranthind@icloud.com\">gurkaranthind@icloud.com<\/a><\/p><div class=\"open-hours\">\n<strong>Opening Hours:<\/strong>\n<br>Monday to Saturday: 9am - 10pm\n<br>Sundays: 10am - 6pm\n<p><\/p>\n<\/div>"
+        "location_code": "<h4>Store Information<\/h4>\n<p>We'd love to hear from you - please use the form to send us your message or ideas. <\/p>\n<p class=\"addr\">10221 King George Boulevard, Surrey British Columbia V3T 2W6,<br> Canada\n<\/p>\n\n<div class=\"open-hours\">\n<strong>Opening Hours:<\/strong>\n<br>Monday to Saturday: 11am - 9:30pm\n<br>Sundays: 12pm - 7pm\n<p><\/p>\n<\/div>"
       }
     },
     "1625993582ada3849a": {
