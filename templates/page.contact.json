@@ -4,7 +4,7 @@
       "type": "contact-template",
       "settings": {
         "display_google_map": true,
-        "google_map_code": "",
+        "google_map_code": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d2461.2766777949337!2d-122.84832559165002!3d49.18857264409189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d9d518961a2f%3A0x659b542ba7248ae0!2s10221%20King%20George%20Blvd%2C%20Surrey%2C%20BC%20V3T%202W6!5e0!3m2!1sen!2sca!4v1656471891424!5m2!1sen!2sca\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
         "contact_title": "Drop us a line",
         "contact_text_desc": "",
         "contact_your_name": "",
