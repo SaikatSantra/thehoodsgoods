@@ -1858,19 +1858,19 @@
       "1540984915288": {
         "type": "home-sub-banner",
         "blocks": {
-          "1540984915288-1": {
+          "1540984915288-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/F65EB2DF-B8F0-4F5A-8FDD-4F4AD76EF0E4.jpg",
+              "image": "shopify:\/\/shop_images\/TRW_5952.jpg",
               "title": "",
               "color_title": "#bb6de0",
               "link": ""
             }
           },
-          "1540984915288-0": {
+          "1540984915288-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Skittles-2.png",
+              "image": "shopify:\/\/shop_images\/TRW_5756.jpg",
               "title": "",
               "color_title": "#bb6de0",
               "link": ""
@@ -1879,7 +1879,7 @@
           "1540985049803": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/DC2CB500-6D34-4AE1-B3F7-3F98FC5E952F.jpg",
+              "image": "shopify:\/\/shop_images\/TRW_5916.jpg",
               "title": "",
               "color_title": "#bb6de0",
               "link": ""
@@ -1887,8 +1887,8 @@
           }
         },
         "block_order": [
-          "1540984915288-1",
           "1540984915288-0",
+          "1540984915288-1",
           "1540985049803"
         ],
         "settings": {
